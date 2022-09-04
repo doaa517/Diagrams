@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-04T16:12:56.803Z" agent="5.0 (Windows)" etag="vGm-OXObSrFesydMnNDP" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-04T16:19:44.693Z" agent="5.0 (Windows)" etag="U942DY8ePjwG-YLF5HmX" version="20.2.4" type="github">
   <diagram id="ohNdlw7bwoGkjWh1BXIm" name="Page-1">
     <mxGraphModel dx="1027" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,8 +81,22 @@
         <mxCell id="70P-MDVzB9mslOVrGpy1-21" value="+ Determine_roles(int id_user, string role): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="70P-MDVzB9mslOVrGpy1-20">
           <mxGeometry y="26" width="280" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="70P-MDVzB9mslOVrGpy1-22" value="+ Accept_report()&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="70P-MDVzB9mslOVrGpy1-20">
+        <mxCell id="70P-MDVzB9mslOVrGpy1-22" value="+ Accept_report(file file_name): boolean&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="70P-MDVzB9mslOVrGpy1-20">
           <mxGeometry y="52" width="280" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="70P-MDVzB9mslOVrGpy1-30" value="Form" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="920" width="160" height="104" as="geometry">
+            <mxRectangle x="160" y="1040" width="80" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70P-MDVzB9mslOVrGpy1-31" value="+ id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="70P-MDVzB9mslOVrGpy1-30">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="70P-MDVzB9mslOVrGpy1-32" value="+ title: Char(50)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="70P-MDVzB9mslOVrGpy1-30">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="70P-MDVzB9mslOVrGpy1-33" value="+ file: file" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="70P-MDVzB9mslOVrGpy1-30">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
