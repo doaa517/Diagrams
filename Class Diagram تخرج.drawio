@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-04T21:24:41.868Z" agent="5.0 (Windows)" etag="oiuxwVOyNcj-Zf4dmXL3" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-04T21:24:58.606Z" agent="5.0 (Windows)" etag="7Gz7nKRu0KuUm63dj97T" version="20.2.4" type="github">
   <diagram id="ohNdlw7bwoGkjWh1BXIm" name="Page-1">
     <mxGraphModel dx="1877" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -158,8 +158,8 @@
             <mxPoint x="1079" y="511" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="70P-MDVzB9mslOVrGpy1-60" value="Course" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="680" y="778" width="160" height="156" as="geometry">
+        <mxCell id="70P-MDVzB9mslOVrGpy1-60" value="Course" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeWidth=2;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="560" y="804" width="160" height="156" as="geometry">
             <mxRectangle x="610" y="80" width="70" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
