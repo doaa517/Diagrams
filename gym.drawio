@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-02T08:49:25.644Z" agent="5.0 (Windows)" etag="3EfOE3TY7_l_MgvZXr5j" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-02T08:52:51.022Z" agent="5.0 (Windows)" etag="6WjDWotSBtlBwsmE8hrc" version="20.5.1" type="github">
   <diagram id="JQW-utt17Xb6EdtMVTP2" name="Page-1">
     <mxGraphModel dx="1888" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -246,8 +246,8 @@
             <mxPoint x="690" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GLv5VMgHDYlPeXWlV2Ui-52" value="&lt;span&gt;Participation gym management &lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="540" y="640" width="210" height="40" as="geometry" />
+        <mxCell id="GLv5VMgHDYlPeXWlV2Ui-52" value="&lt;span&gt;Participation coach management &lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="640" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GLv5VMgHDYlPeXWlV2Ui-53" value="" style="edgeStyle=none;html=1;endSize=12;endArrow=block;endFill=0;rounded=0;fontSize=14;fontColor=#000000;entryX=0.236;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
